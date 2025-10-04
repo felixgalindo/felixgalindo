@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Felix Galindo
+# 👋 Hi, I'm Felix Galindo  
 
-I’m a Principal Engineer specializing in embedded systems, **Edge AI**, and intelligent IoT infrastructure.  
-I focus on designing systems that bridge low-level hardware with high-impact AI use cases, bringing intelligence closer to where data is generated.  
+**Principal Engineer @ Digi International | Edge AI + IoT Strategist | Building intelligent systems at the edge**  
+
+I specialize in **embedded systems, Edge AI, and intelligent IoT infrastructure**.  
+My focus is on designing systems that bridge low-level hardware with high-impact AI use cases, bringing intelligence closer to where data is generated.  
 
 ---
 
@@ -20,14 +22,14 @@ I focus on designing systems that bridge low-level hardware with high-impact AI 
 ---
 
 ## 💡 Interests
-- Edge AI on constrained IoT devices (smart cities, healthcare, industrial automation)  
-- Distributed intelligence for connected embedded systems  
-- Bridging embedded hardware with cloud platforms for scalable AI solutions  
+- **Edge AI** on constrained IoT devices (smart cities, healthcare, industrial automation)  
+- Distributed intelligence for **connected embedded systems**  
+- Bridging embedded hardware with **cloud platforms for scalable AI solutions**  
 
 ---
 
 ## 📬 Contact
 - [LinkedIn](https://www.linkedin.com/in/felix-ee)  
-- [Portfolio / Blog](https://felixg.io)  
-
+- [Medium](https://medium.com/@felixgalindo91)  
+- [GitHub](https://github.com/felixgalindo)  
 ---
