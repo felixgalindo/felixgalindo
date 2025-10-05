@@ -29,7 +29,7 @@ My focus is on designing systems that bridge low-level hardware with high-impact
 ---
 
 ## 📬 Contact
-- [LinkedIn](https://www.linkedin.com/in/felix-ee)  
+- [LinkedIn](https://www.linkedin.com/in/felix-galindo/)  
 - [Medium](https://medium.com/@felixgalindo91)  
 - [GitHub](https://github.com/felixgalindo)  
 ---
