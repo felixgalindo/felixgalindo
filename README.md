@@ -8,7 +8,8 @@ My focus is on designing systems that bridge low-level hardware with high-impact
 ---
 
 ## 🔧 Currently
-- Leading **Edge AI initiatives at Digi International**, architecting IoT systems that process data at the source for smarter, faster decision-making  
+- Leading **Edge AI initiatives at Digi International**, architecting IoT systems that process data at the source for smarter, faster decision-making
+- Building [TinyMLDelta](https://github.com/felixgalindo/TinyMLDelta) - an incremental model update system for TinyML and edge devices.
 - Building [toyvision-ai](https://github.com/felixgalindo/toyvision-ai) – an open-source project to teach kids about AI through playful experiments  
 - Architecting a modern [C library for XBee LR](https://github.com/felixgalindo/xbee_c_library), enabling developers to integrate Digi’s long-range IoT modules with ease  
 
