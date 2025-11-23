@@ -11,14 +11,14 @@ My focus is on designing systems that bridge low-level hardware with high-impact
 - Leading **Edge AI initiatives at Digi International**, architecting IoT systems that process data at the source for smarter, faster decision-making
 - Building [TinyMLDelta](https://github.com/felixgalindo/TinyMLDelta) - an incremental model update system for TinyML and edge devices.
 - Building [toyvision-ai](https://github.com/felixgalindo/toyvision-ai) – an open-source project to teach kids about AI through playful experiments  
-- Architecting a modern [C library for XBee LR](https://github.com/felixgalindo/xbee_c_library), enabling developers to integrate Digi’s long-range IoT modules with ease  
+- Architecting a modern [C library for XBee](https://github.com/felixgalindo/xbee_c_library), enabling developers to integrate Digi’s wireless IoT with ease  
 
 ---
 
 ## 📢 Publications & Speaking
 - *[Edge Intelligence: Enabling IoT at the Source](https://theaiinnovator.com/edge-intelligence-enabling-iot-at-the-source/)* – published in **The AI Innovator** (2025)  
 - Expert Panelist at **Embedded World North America 2025**: [*“Edge AI is Happening – IoT Yields First Use Cases”*](https://www.digi.com/resources/videos/ai-at-the-edge-ewna-2025)
-- Featured by Digi International on LinkedIn: [Edge Intelligence: Enabling IoT at the Source](https://www.linkedin.com/posts/digi-international_edge-intelligence-enabling-iot-at-the-source-activity-7365808414641295360-4HX6/)
+- Mention on Digi International's post: [New open IoT Application Framework accelerates development by addressing the complexity of connected product deployment at scale from edge to cloud](https://www.digi.com/company/press-releases/2025/digi-showcases-complete-edge-to-cloud-solution)
 - [Why Edge AI Fails — And Why the Missing Infrastructure Layer Matters More Than the Models](https://medium.com/@felixgalindo91/why-edge-ai-fails-and-why-the-missing-infrastructure-layer-matters-more-than-the-models-a05f291a5834)
 - [Introducing TinyMLDelta — Incremental ML Model Updates for Tiny Devices](https://medium.com/@felixgalindo91/introducing-tinymldelta-incremental-ml-model-updates-for-tiny-devices-96663edd1991)
 
