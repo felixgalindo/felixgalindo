@@ -17,8 +17,10 @@ My focus is on designing systems that bridge low-level hardware with high-impact
 
 ## 📢 Publications & Speaking
 - *[Edge Intelligence: Enabling IoT at the Source](https://theaiinnovator.com/edge-intelligence-enabling-iot-at-the-source/)* – published in **The AI Innovator** (2025)  
-- Speaker at **Embedded World North America 2025**: *“Edge AI is Happening – IoT Yields First Use Cases”*  
-- Featured by Digi International on LinkedIn: [Edge Intelligence: Enabling IoT at the Source](https://www.linkedin.com/posts/digi-international_edge-intelligence-enabling-iot-at-the-source-activity-7365808414641295360-4HX6/)  
+- Expert Panelist at **Embedded World North America 2025**: *“Edge AI is Happening – IoT Yields First Use Cases”*  
+- Featured by Digi International on LinkedIn: [Edge Intelligence: Enabling IoT at the Source](https://www.linkedin.com/posts/digi-international_edge-intelligence-enabling-iot-at-the-source-activity-7365808414641295360-4HX6/)
+- [Why Edge AI Fails — And Why the Missing Infrastructure Layer Matters More Than the Models](https://medium.com/@felixgalindo91/why-edge-ai-fails-and-why-the-missing-infrastructure-layer-matters-more-than-the-models-a05f291a5834)
+- [Introducing TinyMLDelta — Incremental ML Model Updates for Tiny Devices](https://medium.com/@felixgalindo91/introducing-tinymldelta-incremental-ml-model-updates-for-tiny-devices-96663edd1991)
 
 ---
 
