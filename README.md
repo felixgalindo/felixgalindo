@@ -10,6 +10,7 @@ My focus is on designing systems that bridge low-level hardware with high-impact
 ## 🔧 Currently
 - Leading **Edge AI initiatives at Digi International**, architecting IoT systems that process data at the source for smarter, faster decision-making
 - Building [TinyMLDelta](https://github.com/felixgalindo/TinyMLDelta) - an incremental model update system for TinyML and edge devices.
+
 - Building [toyvision-ai](https://github.com/felixgalindo/toyvision-ai) – an open-source project to teach kids about AI through playful experiments  
 - Architecting a modern [C library for XBee](https://github.com/felixgalindo/xbee_c_library), enabling developers to integrate Digi’s wireless IoT with ease  
 
@@ -21,6 +22,7 @@ My focus is on designing systems that bridge low-level hardware with high-impact
 - Mention on Digi International's post: [New open IoT Application Framework accelerates development by addressing the complexity of connected product deployment at scale from edge to cloud](https://www.digi.com/company/press-releases/2025/digi-showcases-complete-edge-to-cloud-solution)
 - [Why Edge AI Fails — And Why the Missing Infrastructure Layer Matters More Than the Models](https://medium.com/@felixgalindo91/why-edge-ai-fails-and-why-the-missing-infrastructure-layer-matters-more-than-the-models-a05f291a5834)
 - [Introducing TinyMLDelta — Incremental ML Model Updates for Tiny Devices](https://medium.com/@felixgalindo91/introducing-tinymldelta-incremental-ml-model-updates-for-tiny-devices-96663edd1991)
+- TinyMLDelta project featured on Hackster.io: [TinyMLDelta Brings Safe, Lightweight Updates to Edge AI](https://www.hackster.io/news/tinymldelta-brings-safe-lightweight-updates-to-edge-ai-6ec411f93f44)
 
 ---
 
