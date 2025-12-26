@@ -53,4 +53,5 @@ My focus is on designing systems that bridge low-level hardware with high-impact
 
 - **LinkedIn:** https://www.linkedin.com/in/felix-galindo/  
 - **Medium:** https://medium.com/@felixgalindo91  
-- **GitHub:** https://github.com/felixgalindo  
+- **GitHub:** https://github.com/felixgalindo
+- **CV Website:** https://felixgalindo.io/
