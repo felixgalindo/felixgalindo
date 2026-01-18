@@ -64,6 +64,19 @@ My work focuses on bridging low-level hardware with scalable, production-ready A
 
 ---
 
+---
+
+## Selected Production Systems & Platforms
+
+I’ve led and owned multiple production-grade edge and IoT systems spanning embedded devices, gateways, and device-to-cloud platforms.
+
+Detailed system architecture, technical scope, and ownership are documented here:
+
+🔗 **https://felixgalindo.io/#works**
+
+These projects focus on real-world constraints such as power, RF reliability, provisioning, security, scalability, and long-term maintainability.
+
+
 ## Selected Research & Academic Projects
 
 - **Multimodal Transformer Fusion for Vehicle Detection**  
