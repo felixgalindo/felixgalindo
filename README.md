@@ -62,7 +62,9 @@ My work focuses on bridging low-level hardware with scalable, production-ready A
   - TinyMLDelta featured on Hackster.io  
     https://www.hackster.io/news/tinymldelta-brings-safe-lightweight-updates-to-edge-ai-6ec411f93f44
 
----
+More media/coverage found here:
+
+🔗 **[https://felixgalindo.io/#coverage](https://felixgalindo.io/#coverage)**
 
 ---
 
