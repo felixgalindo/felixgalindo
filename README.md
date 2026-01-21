@@ -2,7 +2,7 @@
 
 Staff Edge Engineer @ BrightAI  
 Former Principal Engineer @ Digi International  
-Edge AI, Physical AI, Embedded Systems, and IoT Platforms
+Edge AI, TinyML, Physical AI, Embedded Systems, and Wireless IoT Platforms
 
 I specialize in embedded systems, Edge AI, and intelligent IoT infrastructure.  
 My work focuses on bridging low-level hardware with scalable, production-ready AIoT platforms, bringing intelligence closer to where data is generated and acted upon.
