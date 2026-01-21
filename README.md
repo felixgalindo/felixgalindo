@@ -26,6 +26,10 @@ My work focuses on bridging low-level hardware with scalable, production-ready A
 - **Principal Engineer @ Digi International**  
   Led and owned production systems across embedded devices, RF platforms, LoRaWAN connectivity, edge intelligence, and device-to-cloud infrastructure.  
   Worked across hardware, firmware, provisioning workflows, tooling, and platform architecture for large-scale industrial and OEM IoT deployments.
+
+  See more of my previous experiences here:
+  🔗 **[https://felixgalindo.io/#resume](https://felixgalindo.io/#resume)**
+
 ---
 
 ## Publications, Media & Speaking
