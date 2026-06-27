@@ -34,6 +34,9 @@ My work focuses on bridging low-level hardware with scalable, production-ready A
 
 ## Publications, Media & Speaking
 
+- **Featured Guest — Electronic Design’s Inside Electronics Podcast **   
+  [Empowering the Industrial Internet of Things](https://www.electronicdesign.com/blog/inside-electronics/podcast/55384557/electronic-design-empowering-the-industrial-internet-of-things)
+
 - *Edge Intelligence: Enabling IoT at the Source* — The AI Innovator (2025)  
   https://theaiinnovator.com/edge-intelligence-enabling-iot-at-the-source/
 
